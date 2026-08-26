@@ -249,3 +249,7 @@ Skills 目录可通过环境变量 `DAIBOO_SKILLS_DIR` 覆盖（默认 `skills/`
 
 - `README.md`：面向人类开发者与使用者，负责上手与运行说明。
 - `AGENTS.md`：面向 AI coding agent，负责修改约束、边界和维护规则。
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE)。

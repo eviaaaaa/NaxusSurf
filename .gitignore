@@ -29,7 +29,10 @@ screen/
 storage/
 temp_uploads/
 .temp_uploads/
-# SQLite checkpoint (DAIBOO_CHECKPOINT_DIR)
+# LangGraph/SQLite checkpoint state (including custom DAIBOO_CHECKPOINT_DIR)
+**/agent_checkpoints.db
+**/agent_checkpoints.db-wal
+**/agent_checkpoints.db-shm
 data/
 docx/
 .playwright-mcp/*

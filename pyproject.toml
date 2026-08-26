@@ -4,7 +4,8 @@ version = "0.1.0"
 description = "Daiboo（代步）：面向复杂网页任务的智能浏览器代理框架，基于 LLM + Playwright MCP"
 readme = "README.md"
 requires-python = ">=3.11"
-license = { text = "MIT" }
+license = "MIT"
+license-files = ["LICENSE"]
 authors = [
     { name = "eviaaaaa", email = "w2278596667@gmail.com" },
 ]
